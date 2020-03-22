@@ -1,0 +1,29 @@
+<!DOCTYPE html >
+<html >
+  <meta  charset="UTF-8">
+       <head> 
+            <title> My First WebPage</title>
+            <link rel ="stylesheet" type="text/css "href="style.css">
+            
+         <!--My main intro-->
+       <div  class="intro-container">
+	          <h1><font color="#000000">My First Webpage</font></h1> 
+	       <p class="intro">Kindly do exactly what you see here as it would affect your score</p>
+                 <p>whether it is your first Webpage in life or not use the heading above, it won't bite</p>
+                 <br><h2> H2 Heading</h2>
+                 <p>As a best practice, your webpage should have just one element</p></br>
+                 <h3> H3 Heading</h3>
+                 <p> This test is too simple to fail. It is simply a test of how much you have been following the course</p> 
+                <br> <p>Thanks..wait
+                 You will have to upload this project to Github.. Yea. </p> </br>
+                 <h4>H4 heading</h4> 
+                 <p>Use the file structure that would be shown here below </p> :<pre>:::first_page:::<link rel="stylesheet" href="style.css"> <code>style </code>
+              
+            <pre><a href="#">:::!...index.html:::</a></pre>
+                <pre><a href="#">:::!...index.css:::</a></pre>
+                <pre><a href="#">:::!...index.js:::</a> </pre>
+            <meta name="description" content="HTML elements in detail" />
+            <script type="text/Javascript"></script>
+            <base href="">
+       </head>
+       <body>
